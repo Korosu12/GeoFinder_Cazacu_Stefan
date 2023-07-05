@@ -1,0 +1,2 @@
+sprite_index = s_federatedstatesofmicronesia_doi3;
+draw_big_sprite = s_federatedstatesofmicronesia3;

@@ -1,0 +1,2 @@
+sprite_index = s_bosnia_and_hertegovina_doi4;
+draw_big_sprite = s_bosnia_and_hertegovina4;

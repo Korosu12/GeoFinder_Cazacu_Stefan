@@ -1,0 +1,2 @@
+sprite_index = s_sainpierreandmiquelon_doi29;
+draw_big_sprite = s_sainpierreandmiquelon29;
